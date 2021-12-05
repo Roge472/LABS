@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DraftLabDotNET4Point8", "DraftLab\DraftLabDotNET4Point8.csproj", "{5BE94016-A018-4719-B7DB-5BFA1FA17C77}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabDotNET4Point8", "DraftLab\LabDotNET4Point8.csproj", "{5BE94016-A018-4719-B7DB-5BFA1FA17C77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DraftLabDotNET5", "Exercises\DraftLabDotNET5.csproj", "{3C2D1A03-D50C-40DF-87B2-5692B2C12C49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LabDotNET5", "Exercises\LabDotNET5.csproj", "{3C2D1A03-D50C-40DF-87B2-5692B2C12C49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
