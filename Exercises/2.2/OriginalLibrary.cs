@@ -5,7 +5,6 @@ using System.Linq;
 // ReSharper disable once CheckNamespace
 namespace DraftLab.OriginalLibrary
 {
-    // Class takes responsibilities of child classes.
     public class Librarian
     {
         public void DoWork(Library library)

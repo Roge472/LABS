@@ -2,7 +2,6 @@
 
 namespace DraftLab.LisOrigin
 {
-    // Fix violation of Liskov
     public abstract class FileService
     {
         public int Id { get; set; }

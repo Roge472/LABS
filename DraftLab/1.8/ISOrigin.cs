@@ -2,7 +2,6 @@
 
 namespace DraftLab.ISOrigin
 {
-    // Fix violation of interface segregation
     public class GuitarPlayer : IMusician
     {
         public void PlayGuitar()

@@ -1,6 +1,5 @@
 ﻿namespace DraftLab.OriginalCompositionOverInheritance
 {
-    // Compositions over inheritance.
     public class Pokemon
     {
         public int HitPoints { get; set; }
@@ -45,10 +44,6 @@
 
     }
 
-    /// <summary>
-    /// Inheritance not really flexible.
-    /// In order to combine something you need to create completely new instance of this class.
-    /// </summary>
     public class EarthAndFlyingPokemon : EarthPokemon
     {
         public EarthAndFlyingPokemon(int hitPoints, int attackDamage) : base(hitPoints, attackDamage)

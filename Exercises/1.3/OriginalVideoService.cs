@@ -3,7 +3,6 @@ using System.IO;
 
 namespace DraftLab.OriginalVideoService
 {
-    // Wrong property names
     public class VideoService
     {
         public void SaveVideo(Stream stream)

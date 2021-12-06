@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace DraftLab.OriginalDwarf
 {
-    // Two methods in one
     public class Dwarf
     {
         public void BuyBricksAndBuildHouse()

@@ -6,7 +6,6 @@ using Newtonsoft.Json;
 // ReSharper disable once CheckNamespace
 namespace DraftLab.OriginalPX
 {
-    // Large class
     public class OriginalPX
     {
         public string ExhibitType { get; set; }

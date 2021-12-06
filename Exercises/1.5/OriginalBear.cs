@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace DraftLab.OriginalBear
 {
-    // Base class knows about derived once.
     public abstract class OriginalBear
     {
         public int GetSpeed()

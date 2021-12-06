@@ -3,7 +3,6 @@ using System.Collections.Generic;
 
 namespace DraftLab.OriginalJapan
 {
-    // Two classes with same fields.
     public class Ninja
     {
         public string Name { get; set; }
