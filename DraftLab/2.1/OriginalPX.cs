@@ -54,10 +54,10 @@ namespace DraftLab.OriginalPX
         public string[] FooterText { get; set; }
         public string[] FooterSize { get; set; }
 
-        public OriginalPX Decrypt(string json)
+        public OriginalPZ Decrypt(string json)
         {
             Console.WriteLine("Some long encryption algorithm for 99+ lines of code. Algorithm number 1.");
-            var obj = JsonConvert.DeserializeObject<OriginalPX>(json);
+            var obj = JsonConvert.DeserializeObject<OriginalPZ>(json);
             return obj;
         }
 
